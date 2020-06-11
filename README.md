@@ -1,5 +1,7 @@
 # Quick-Level-Generator
 
+Video demo: https://youtu.be/ZRlYYnmQHqw
+
 Open TextureToLevel scene and select TextureToLevel gameobject or Create an
 empty gameobject and add TextureToLevel.cs
 
